@@ -187,6 +187,17 @@ Blue is ground and red is power pad
 From the pad the power gets supplied to the ring and from the ring to the straps and from the straps it is going to the standard rails
 Square at the corner are corner pad
 
+![image](https://user-images.githubusercontent.com/71206467/183464829-4c003834-6119-428c-b2bd-30d86ef0f11c.png)
+
+Running routing
+
+![image](https://user-images.githubusercontent.com/71206467/183472096-4e53203d-c2dc-4e81-94ae-77b5ee4d5859.png)
+After 57th optimization the no. of violations are 0
+
+![image](https://user-images.githubusercontent.com/71206467/183472747-e427da87-15b2-4272-967d-6a4363c7c463.png)
+
+DRC file is empty ,no violations are there
+
 
 
 
