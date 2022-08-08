@@ -179,6 +179,15 @@ running power distribution network
 
 Standard cell rail info
 
+ ![image](https://user-images.githubusercontent.com/71206467/183464098-4a1ba733-324b-4fea-b138-71721379980b.png)
+
+Green box is picorv 
+Yellow boxes are io pads 
+Blue is ground and red is power pad
+From the pad the power gets supplied to the ring and from the ring to the straps and from the straps it is going to the standard rails
+Square at the corner are corner pad
+
+
 
 
 
