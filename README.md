@@ -151,6 +151,7 @@ changing max fanout and running synthesis again
 decreasing fanout increased the tns in my case
 
 ![image](https://user-images.githubusercontent.com/71206467/183412466-ab597ac0-b5dc-4f1c-b870-d9c40c40b33d.png)
+
 total 161 driver pins for this net
 
 ![image](https://user-images.githubusercontent.com/71206467/183421772-a0d12e06-9d82-45ae-af6b-605c0924a2db.png)
