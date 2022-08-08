@@ -193,6 +193,7 @@ Square at the corner are corner pad
 Running routing
 
 ![image](https://user-images.githubusercontent.com/71206467/183472096-4e53203d-c2dc-4e81-94ae-77b5ee4d5859.png)
+
 After 57th optimization the no. of violations are 0
 
 ![image](https://user-images.githubusercontent.com/71206467/183472747-e427da87-15b2-4272-967d-6a4363c7c463.png)
